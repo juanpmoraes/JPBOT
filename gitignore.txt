@@ -1,0 +1,8 @@
+ffmpeg*/
+*.exe
+*.dll
+token.txt
+.env
+venv/
+__pycache__/
+.env
